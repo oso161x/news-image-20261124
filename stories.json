@@ -1,0 +1,434 @@
+{
+ "date": "Tuesday 24 November 2026",
+ "datecheck_left": [
+  "COP31 collapses with no deal (22 Nov, Sun)",
+  "Russian corvette sunk off Libya (22 Nov; confirmed 23 Nov)",
+  "Russian drone kills 11 in Dymer (22–23 Nov)",
+  "Democrats take the House, 258 seats (23 Nov)",
+  "Candy factory fire kills 24 in Banten (23 Nov)",
+  "G20 leaders' declaration adopted (22 Nov)",
+  "Hong Kong votes (22 Nov)",
+  "Alcaraz wins first ATP Finals title (22 Nov)",
+  "Las Vegas GP, Verstappen wins (21 Nov)",
+  "Liverpool 4–0 Man Utd (22 Nov)",
+  "Peru M6.7 quake (21 Nov)",
+  "Banda Sea M6.8 off Timor-Leste (21 Nov)",
+  "'El Chapo Isidro' captured (20 Nov)",
+  "Denmark expels Russia's defence envoy (20 Nov)",
+  "Fiona the hippo dies at Cincinnati Zoo (19 Nov)",
+  "Sparta II catches fire off Finland (21 Nov)",
+  "Eisenkot calls settler arson 'Jewish terrorism' (23 Nov)",
+  "Houthis claim Saudi refinery hit (23 Nov)"
+ ],
+ "datecheck_notyet": [
+  "Thanksgiving Day (Thu 26 Nov)",
+  "Spain's election (29 Nov)",
+  "Qatar GP (29 Nov)",
+  "Ayodhya–Janakpur train's first run (28 Nov)",
+  "40-year JGB auction (25 Nov)",
+  "Tokyo CPI figures (27 Nov)",
+  "Chess Game 1 result (after 15:00 CET)",
+  "NATO council statement on Poland"
+ ],
+ "index": [
+  [
+   16,
+   "COP31 experts urge reform after collapse",
+   "AP"
+  ],
+  [
+   17,
+   "First Quantum accepts Panama's Cobre terms",
+   "Reuters"
+  ],
+  [
+   18,
+   "India, China hold military talks in Arunachal",
+   "TOI"
+  ],
+  [
+   19,
+   "O'Hare ground stop amid Thanksgiving rush",
+   "TOI"
+  ],
+  [
+   20,
+   "Lahore tops pollution ranking; AQI over 500",
+   "TOI"
+  ],
+  [
+   21,
+   "4.0 quake strikes Pakistan near Afghan border",
+   "TOI"
+  ],
+  [
+   22,
+   "Yunus: 'higher level' behind Grameen attacks",
+   "TOI"
+  ],
+  [
+   23,
+   "Charles reaches out to Meghan after arrest",
+   "TOI"
+  ],
+  [
+   24,
+   "Bhugwandass dies by euthanasia at 28",
+   "TOI"
+  ],
+  [
+   25,
+   "Chinese official gets death for leaking reports",
+   "TOI"
+  ],
+  [
+   26,
+   "Kim receives credentials from India's new envoy",
+   "TOI"
+  ],
+  [
+   27,
+   "Trump targets Newsom over 548 sentences",
+   "TOI"
+  ],
+  [
+   28,
+   "Mossad saved Swift's Vienna concerts",
+   "TOI"
+  ],
+  [
+   29,
+   "UN demands inquiry into Libya strikes",
+   "UNSMIL"
+  ],
+  [
+   30,
+   "Kennedy: Trump officials let China get chips",
+   "TOI"
+  ],
+  [
+   31,
+   "Kash Patel hits Minnesota with $41m fraud probe",
+   "TOI"
+  ],
+  [
+   32,
+   "Mullin grilled over Huang–China spy row",
+   "TOI"
+  ],
+  [
+   33,
+   "Alice Huang's role in China's spy web probed",
+   "TOI"
+  ],
+  [
+   34,
+   "China's AI chip hunt helps firms bypass curbs",
+   "TOI"
+  ],
+  [
+   35,
+   "India's private sector improves in November",
+   "TOI"
+  ],
+  [
+   36,
+   "Ex-Jackson mayor gets 37 months for bribery",
+   "TOI"
+  ],
+  [
+   37,
+   "Pakistan to invite India to culture meet",
+   "TOI"
+  ],
+  [
+   38,
+   "Taliban erase women's names in Balkh",
+   "Disclosure"
+  ],
+  [
+   39,
+   "Oxfam: Gaza's air, soil and water poisoned",
+   "Oxfam"
+  ],
+  [
+   40,
+   "Spain's right on track to oust Sanchez",
+   "Spyglass"
+  ],
+  [
+   41,
+   "Trump's Kim outreach repeatedly ignored",
+   "WSJ"
+  ],
+  [
+   42,
+   "Arctic trial thickens ice 50 cm",
+   "Disclosure"
+  ],
+  [
+   43,
+   "Italians hurt by cut-price Albania dental trips",
+   "Disclosure"
+  ],
+  [
+   44,
+   "SoftBank +5.0%, Kioxia +7.3% lead Tokyo rebound",
+   "WSJ"
+  ],
+  [
+   45,
+   "S&P futures +2.2%, Nasdaq +2.9% steadier",
+   "Asia Daily"
+  ],
+  [
+   46,
+   "Nikkei volatility index jumps to 39.28",
+   "TraderAlpha"
+  ],
+  [
+   47,
+   "Sindarov 2782, No. 4; Gukesh 2710, No. 28",
+   "Wikipedia"
+  ],
+  [
+   48,
+   "Chess tie-breaks set for 12 Dec if 7–7",
+   "FIDE"
+  ],
+  [
+   49,
+   "Tokyo reopens after 7% weekly Nikkei fall",
+   "Asia Daily"
+  ],
+  [
+   50,
+   "India's chief justice wants legal aid, AI rules",
+   "TOI"
+  ]
+ ],
+ "kicker": "THE WORLD IN ONE DAY  ·  50 STORIES  ·  8 REGIONS  ·  15 FIELDS  ·  EVERY ONE FROM TUESDAY 24 NOVEMBER 2026",
+ "leads": [
+  {
+   "badge": "CONFIRMED",
+   "deck": "Unanimous vote, 11 days after he resigned over affairs — one with a woman US authorities suspect of spying for China. Shares +31.5% to $165.05.",
+   "head": "Huang is back: Nvidia board reinstates its chief",
+   "img": "lead1",
+   "kicker": "TECHNOLOGY · SANTA CLARA",
+   "lat": 37.4,
+   "lon": -122.0,
+   "n": 1,
+   "source": "Reuters · Guardian · Times of India"
+  },
+  {
+   "badge": "OFFICIAL",
+   "deck": "The court rules Myanmar committed genocide against the Rohingya — its landmark verdict on the 2017 campaign.",
+   "head": "Genocide, the world court rules, in Myanmar",
+   "img": "lead2",
+   "kicker": "LAW · THE HAGUE",
+   "lat": 52.1,
+   "lon": 4.3,
+   "n": 2,
+   "source": "ICJ · World Headlines"
+  },
+  {
+   "badge": "REPORTED",
+   "deck": "Tehran steps up attacks on US bases and civilian sites in the Gulf, and sues for $290bn, as a US blockade and sanctions squeeze it.",
+   "head": "Iran hits Gulf sites, sues for $290bn",
+   "img": "lead3",
+   "kicker": "WAR · THE GULF",
+   "lat": 26.2,
+   "lon": 50.6,
+   "n": 3,
+   "source": "Spyglass News · Reuters"
+  }
+ ],
+ "legend": "CONFIRMED — 2+ outlets  ·  OFFICIAL — on the record  ·  REPORTED — one outlet  ·  CLAIM — one side's word",
+ "markets": "TOKYO REOPENS: Nikkei 58,600 (+3.8% at 09:32 JST)  ·  Semis +8.3%  ·  KOSPI +7.5%  ·  Taiwan +9.1%  ·  Nasdaq +6.5%  ·  ¥158.89/$",
+ "minis": [
+  {
+   "badge": "CONFIRMED",
+   "bignum": "+9.1%",
+   "deck": "Nikkei +4.5%, KOSPI +7.5%, Taiwan +9.1%; MSCI Asia +4.6%.",
+   "head": "Asia roars back",
+   "img": "markets",
+   "kicker": "MARKETS · TOKYO",
+   "lat": 35.7,
+   "lon": 139.7,
+   "n": 4,
+   "source": "Reuters",
+   "src": "Reuters"
+  },
+  {
+   "badge": "OFFICIAL",
+   "bignum": "ENTITY LIST",
+   "deck": "Commerce puts the Singapore chip firm on its trade blacklist.",
+   "head": "US blacklists Megaspeed",
+   "img": null,
+   "kicker": "CHIPS · SINGAPORE",
+   "lat": 1.35,
+   "lon": 103.8,
+   "n": 5,
+   "source": "Spyglass News",
+   "src": "Spyglass"
+  },
+  {
+   "badge": "OFFICIAL",
+   "bignum": null,
+   "deck": "Russian warplanes enter Korea's air zone; alert for Ulleung Island.",
+   "head": "Russian jets in Korea's air zone",
+   "img": "jets",
+   "kicker": "DEFENCE · SEOUL",
+   "lat": 37.5,
+   "lon": 130.9,
+   "n": 6,
+   "source": "Spyglass News",
+   "src": "Spyglass"
+  },
+  {
+   "badge": "OFFICIAL",
+   "bignum": "No. 22",
+   "deck": "EU proposes 22nd package: Russian teams banned; banks, crypto hit.",
+   "head": "22nd sanctions package",
+   "img": "eu",
+   "kicker": "EUROPE · BRUSSELS",
+   "lat": 50.85,
+   "lon": 4.35,
+   "n": 7,
+   "source": "World Headlines",
+   "src": "WH News"
+  },
+  {
+   "badge": "REPORTED",
+   "bignum": "WARNING",
+   "deck": "Moscow warns Finland and Estonia; Kyiv says new strikes are planned.",
+   "head": "Russia warns Finland, Estonia",
+   "img": null,
+   "kicker": "WARNING · MOSCOW",
+   "lat": 60.2,
+   "lon": 24.9,
+   "n": 8,
+   "source": "Spyglass News",
+   "src": "Spyglass"
+  },
+  {
+   "badge": "REPORTED",
+   "bignum": null,
+   "deck": "Israeli strikes kill three in Gaza, including an UNRWA worker.",
+   "head": "Strikes kill three, incl. UN worker",
+   "img": "gaza",
+   "kicker": "GAZA · MIDDLE EAST",
+   "lat": 31.5,
+   "lon": 34.45,
+   "n": 9,
+   "source": "Spyglass News · Oxfam",
+   "src": "Oxfam"
+  },
+  {
+   "badge": "REPORTED",
+   "bignum": null,
+   "deck": "Virginia and Oregon sue SpaceX over sexual imagery made by Grok AI.",
+   "head": "States sue SpaceX over Grok images",
+   "img": "rocket",
+   "kicker": "COURTS · VIRGINIA",
+   "lat": 38.9,
+   "lon": -77.5,
+   "n": 10,
+   "source": "Spyglass News",
+   "src": "Spyglass"
+  },
+  {
+   "badge": "REPORTED",
+   "bignum": null,
+   "deck": "Waymo suspends its driverless taxis from all US freeways.",
+   "head": "Waymo off the freeways",
+   "img": "waymo",
+   "kicker": "TECH · CALIFORNIA",
+   "lat": 37.8,
+   "lon": -122.4,
+   "n": 11,
+   "source": "World Headlines",
+   "src": "WH News"
+  },
+  {
+   "badge": "OFFICIAL",
+   "bignum": "$2.5m",
+   "deck": "Gukesh defends against Sindarov, Game 1 in Geneva; $2.5m fund.",
+   "head": "Youngest title match opens",
+   "img": "chess",
+   "kicker": "SPORT · GENEVA",
+   "lat": 46.2,
+   "lon": 6.14,
+   "n": 12,
+   "source": "FIDE · Voice of Indian Sport",
+   "src": "FIDE"
+  },
+  {
+   "badge": "OFFICIAL",
+   "bignum": "DRAW",
+   "deck": "First Test ends in a draw after a strong fightback by the visitors.",
+   "head": "India–NZ Test drawn",
+   "img": "cricket",
+   "kicker": "SPORT · WELLINGTON",
+   "lat": -41.3,
+   "lon": 174.8,
+   "n": 13,
+   "source": "Times of India",
+   "src": "TOI"
+  },
+  {
+   "badge": "OFFICIAL",
+   "bignum": "Rs 400 cr",
+   "deck": "PM Modi inaugurates an AI centre at IIT Patna; Rs 400 cr park.",
+   "head": "Modi opens AI centre",
+   "img": null,
+   "kicker": "INDIA · PATNA",
+   "lat": 25.6,
+   "lon": 85.1,
+   "n": 14,
+   "source": "Times of India",
+   "src": "TOI"
+  },
+  {
+   "badge": "REPORTED",
+   "bignum": "DOZENS",
+   "deck": "A migrant boat capsizes off Senegal, leaving dozens missing.",
+   "head": "Boat capsizes, dozens missing",
+   "img": null,
+   "kicker": "AFRICA · SENEGAL",
+   "lat": 14.7,
+   "lon": -17.4,
+   "n": 15,
+   "source": "World Headlines",
+   "src": "WH News"
+  }
+ ],
+ "subhead": "Huang is back at Nvidia  ·  The Hague calls Myanmar's Rohingya campaign genocide  ·  Iran hits Gulf sites and sues for $290bn",
+ "timeline": [
+  [
+   "00:19",
+   "Nikkei opens +2.7% in Tokyo"
+  ],
+  [
+   "00:32",
+   "Nikkei 58,600, +3.8%"
+  ],
+  [
+   "01:23",
+   "UN demands Libya inquiry"
+  ],
+  [
+   "c.06:00",
+   "Russian jets enter Korean ADIZ"
+  ],
+  [
+   "c.09:00",
+   "EU unveils 22nd sanctions"
+  ],
+  [
+   "14:00",
+   "Chess Game 1 begins in Geneva"
+  ]
+ ],
+ "title": "THE WORLD — Tuesday 24 November 2026"
+}
